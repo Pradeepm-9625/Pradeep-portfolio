@@ -1,0 +1,6 @@
+export const aboutData = {
+    title: "Who I am",
+    description1: "Hello! My name is Pradeep. I'm an aspiring software tester based in India.",
+    description2: "Greetings! With a strong foundation in software testing, I bring a detail-oriented and methodical approach to ensuring high-quality applications. Over the years, I have developed expertise in both manual and automated testing, with a focus on identifying bugs, improving usability, and ensuring seamless functionality across various platforms. I am proficient in using testing frameworks like Selenium, JUnit, and TestNG, and familiar with tools like JIRA and Bugzilla for effective bug tracking and reporting. My experience includes performing regression, integration, and performance testing to verify that software meets all requirements and works as expected under different conditions. I pride myself on my attention to detail and my ability to work collaboratively with development teams to deliver high-quality software. Dedicated to continuous improvement, I stay updated with the latest testing methodologies and tools to enhance the quality assurance process. My goal is to help organizations deliver flawless user experiences by ensuring that their software meets the highest standards.",
+    image: 2
+}
