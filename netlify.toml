@@ -1,0 +1,18 @@
+[build]
+  command = "CI=false npm run build"
+  publish = "build"
+
+# Optional redirects for SPA routing (uncomment if using BrowserRouter)
+#[[redirects]]
+#  from = "/*"
+#  to = "/index.html"
+#  status = 200
+[build]
+  command = "CI=false npm run build"
+  publish = "build"
+
+# Optional redirects for SPA routing (uncomment if using BrowserRouter)
+#[[redirects]]
+#  from = "/*"
+#  to = "/index.html"
+#  status = 200
