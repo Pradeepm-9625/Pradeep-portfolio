@@ -1,5 +1,4 @@
 import resume from '../assets/pdf/Pradeep_QA.pdf'
-import mockPhoto from '../assets/png/mock_photo.jpg'
 import Pradeep from '../assets/png/Photo.jpeg'
 
 

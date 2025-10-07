@@ -18,7 +18,7 @@ console.log("%cDEVELOPER PORTFOLIO", `color:${theme.primary}; font-size:50px`);
 
   return (
     <div className="app">
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <ScrollToTop/>
         <Switch>
           <Route path="/" exact component={Main} />

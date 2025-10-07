@@ -3,8 +3,6 @@ import AQI from '../assets/png/aql.png';
 import yadara from '../assets/png/yadara.png';
 import NCOG from '../assets/png/NCOG.png';
 
-const test = "123"
-
 export const projectsData = [
     {
         id: 1,

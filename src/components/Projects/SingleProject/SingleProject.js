@@ -3,7 +3,7 @@ import { makeStyles } from '@material-ui/core/styles';
 import { FaPlay, FaCode } from 'react-icons/fa';
 import Fade from 'react-reveal/Fade';
 
-import placeholder from '../../../assets/png/placeholder.png';
+// placeholder image removed (not used)
 import './SingleProject.css';
 
 function SingleProject({ id, name, desc, tags, code, demo, image, theme }) {
