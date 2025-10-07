@@ -2,7 +2,7 @@
   "name": "pradeep_portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pradeepm-9625.github.io/Pradeep-portfolio", 
+  "homepage": ".",
 
   "dependencies": {
     "@material-ui/core": "^4.12.2",
