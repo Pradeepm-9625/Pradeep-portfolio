@@ -1,7 +1,7 @@
 import myticket from '../assets/png/myticket.png';
 import AQI from '../assets/png/aql.png';
 import yadara from '../assets/png/yadara.png';
-import NCOG from '../assets/png/NCOG.png';
+// NCOG image removed (not used)
 
 export const projectsData = [
     {

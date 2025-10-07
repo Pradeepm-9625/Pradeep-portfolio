@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Pradeep-portfolio/static/css/main.9a478536.chunk.css",
-    "main.js": "/Pradeep-portfolio/static/js/main.2cc30ff0.chunk.js",
-    "main.js.map": "/Pradeep-portfolio/static/js/main.2cc30ff0.chunk.js.map",
-    "runtime-main.js": "/Pradeep-portfolio/static/js/runtime-main.5f257157.js",
-    "runtime-main.js.map": "/Pradeep-portfolio/static/js/runtime-main.5f257157.js.map",
+    "main.js": "/Pradeep-portfolio/static/js/main.560bf8a4.chunk.js",
+    "main.js.map": "/Pradeep-portfolio/static/js/main.560bf8a4.chunk.js.map",
+    "runtime-main.js": "/Pradeep-portfolio/static/js/runtime-main.416d4d12.js",
+    "runtime-main.js.map": "/Pradeep-portfolio/static/js/runtime-main.416d4d12.js.map",
     "static/css/2.d0a86916.chunk.css": "/Pradeep-portfolio/static/css/2.d0a86916.chunk.css",
-    "static/js/2.3e4e7e67.chunk.js": "/Pradeep-portfolio/static/js/2.3e4e7e67.chunk.js",
-    "static/js/2.3e4e7e67.chunk.js.map": "/Pradeep-portfolio/static/js/2.3e4e7e67.chunk.js.map",
-    "static/js/3.e02d73ae.chunk.js": "/Pradeep-portfolio/static/js/3.e02d73ae.chunk.js",
-    "static/js/3.e02d73ae.chunk.js.map": "/Pradeep-portfolio/static/js/3.e02d73ae.chunk.js.map",
+    "static/js/2.35fea523.chunk.js": "/Pradeep-portfolio/static/js/2.35fea523.chunk.js",
+    "static/js/2.35fea523.chunk.js.map": "/Pradeep-portfolio/static/js/2.35fea523.chunk.js.map",
+    "static/js/3.b1d875da.chunk.js": "/Pradeep-portfolio/static/js/3.b1d875da.chunk.js",
+    "static/js/3.b1d875da.chunk.js.map": "/Pradeep-portfolio/static/js/3.b1d875da.chunk.js.map",
     "index.html": "/Pradeep-portfolio/index.html",
     "static/css/2.d0a86916.chunk.css.map": "/Pradeep-portfolio/static/css/2.d0a86916.chunk.css.map",
     "static/css/main.9a478536.chunk.css.map": "/Pradeep-portfolio/static/css/main.9a478536.chunk.css.map",
-    "static/js/2.3e4e7e67.chunk.js.LICENSE.txt": "/Pradeep-portfolio/static/js/2.3e4e7e67.chunk.js.LICENSE.txt",
+    "static/js/2.35fea523.chunk.js.LICENSE.txt": "/Pradeep-portfolio/static/js/2.35fea523.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Pradeep-portfolio/static/media/BestermindRegular.e58a1922.ttf",
     "static/media/Cucumber.6fcb90d9.svg": "/Pradeep-portfolio/static/media/Cucumber.6fcb90d9.svg",
     "static/media/Jira.b894f17b.svg": "/Pradeep-portfolio/static/media/Jira.b894f17b.svg",
@@ -108,7 +108,6 @@
     "static/media/maven.c9cf67e3.svg": "/Pradeep-portfolio/static/media/maven.c9cf67e3.svg",
     "static/media/memsql.aecce246.svg": "/Pradeep-portfolio/static/media/memsql.aecce246.svg",
     "static/media/microsoftoffice.c3a1f4f1.svg": "/Pradeep-portfolio/static/media/microsoftoffice.c3a1f4f1.svg",
-    "static/media/mock_photo.24df28b3.jpg": "/Pradeep-portfolio/static/media/mock_photo.24df28b3.jpg",
     "static/media/mongoDB.6c6da702.svg": "/Pradeep-portfolio/static/media/mongoDB.6c6da702.svg",
     "static/media/mysql.f9e45d29.svg": "/Pradeep-portfolio/static/media/mysql.f9e45d29.svg",
     "static/media/myticket.1e1bfb2c.png": "/Pradeep-portfolio/static/media/myticket.1e1bfb2c.png",
@@ -157,10 +156,10 @@
     "static/media/yellowTheme-girl.641f7b0b.svg": "/Pradeep-portfolio/static/media/yellowTheme-girl.641f7b0b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5f257157.js",
+    "static/js/runtime-main.416d4d12.js",
     "static/css/2.d0a86916.chunk.css",
-    "static/js/2.3e4e7e67.chunk.js",
+    "static/js/2.35fea523.chunk.js",
     "static/css/main.9a478536.chunk.css",
-    "static/js/main.2cc30ff0.chunk.js"
+    "static/js/main.560bf8a4.chunk.js"
   ]
 }

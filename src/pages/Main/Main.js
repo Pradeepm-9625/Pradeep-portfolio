@@ -2,7 +2,7 @@ import React from 'react'
 import { Helmet } from 'react-helmet'
 
 import { Navbar, Landing, About, Skills, Education, Experience, Contacts, Projects, Achievement } from '../../components'
-import { headerData } from '../../data/headerData'
+// headerData import removed (not used in this file)
 
 function Main() {
     return (

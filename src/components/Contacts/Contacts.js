@@ -1,7 +1,4 @@
-import React, { useContext, useState } from 'react';
-
-import axios from 'axios';
-import isEmail from 'validator/lib/isEmail';
+import React, { useContext } from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import {
     FaLinkedinIn,
